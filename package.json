@@ -1,0 +1,26 @@
+{
+  "name": "badged",
+  "version": "0.0.1",
+  "description": "Manipulate github badges easilly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish-release": "npm run publish-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@opuscapita.github.com:kvolkovich-sc/badger.git"
+  },
+  "keywords": [
+    "github",
+    "badges",
+    "readme"
+  ],
+  "author": "Kirill Volkovich",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "optimist": "0.6.1",
+    "opuscapita-npm-scripts": "1.0.6"
+  },
+  "dependencies": {}
+}
